@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "devDependencies": {
+    "eslint": "^8.42.0",
     "nodemon": "^1.18.4"
   },
   "scripts": {
